@@ -5,8 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
-    "start": "next dev && next start",
-    "run": "next start"
+    "start": "next dev && next start"
   },
   "dependencies": {
     "axios": "^0.21.1",
