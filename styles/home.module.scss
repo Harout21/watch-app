@@ -1,0 +1,12 @@
+
+.sliderBlock {
+  padding-left: 35px;
+  padding-right: 35px;
+  box-sizing: border-box;
+  background-color: #000;
+
+  &__main{
+    background: linear-gradient(180deg, rgba(17,17,17,1) 0%, rgba(17,17,17,1) 67%, rgba(0,0,0,1) 100%);
+  }
+}
+
